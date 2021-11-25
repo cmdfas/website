@@ -1,4 +1,4 @@
-# Use Fluter Widget to customize elements
+# Use flutter Widget to customize elements
 
 Custom elements allow developers to define new HTML element types through Flutter Widget. This mechanism allows Kraken to directly reuse the Flutter Widget ecosystem.
 
